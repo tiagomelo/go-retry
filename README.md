@@ -126,6 +126,18 @@ Similar examples exist for:
 - **Randomized Backoff**: [`examples/randomized/main.go`](./examples/randomized/main.go)
 - **Constant Backoff**: [`examples/constant/main.go`](./examples/constant/main.go)
 
+## Running unit tests
+
+```
+make test
+```
+
+## Unit tests coverage report
+
+```
+make coverage
+```
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the package.
