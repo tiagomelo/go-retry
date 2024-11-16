@@ -121,8 +121,8 @@ func main() {
 
 Similar examples exist for:
 - **Exponential Backoff**: [`examples/exponential/main.go`](./examples/exponential/main.go)
-- **Randomized Backoff**: [`examples/randomized/main_randomized.go`](./examples/randomized/main.go)
-- **Constant Backoff**: [`examples/constant/main_constant.go`](./examples/constant/main.go)
+- **Randomized Backoff**: [`examples/randomized/main.go`](./examples/randomized/main.go)
+- **Constant Backoff**: [`examples/constant/main.go`](./examples/constant/main.go)
 
 ## Contributing
 
